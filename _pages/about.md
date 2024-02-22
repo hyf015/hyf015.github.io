@@ -114,3 +114,7 @@ J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.
 1. [Proposal-based Temporal Action Localization with Point-level Supervision](https://arxiv.org/pdf/2310.05511) \| [[BibTex](/docs/bmvc2023.txt)]               
 Y. Yin, **Y. Huang<span>&#42;</span>**, R. Furuta, and Y. Sato.               
 **BMVC 2023**
+
+# 🗞️ Academic Services
+- Area Chair: ICCV 2023, CVPR 2024.
+- Reviewer: T-PAMI, IJCV, CVPR, ICCV, ECCV, ACCV, ICML, NeurIPS, AAAI, TCSVT, ICRA, IWMUT, etc.
