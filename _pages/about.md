@@ -21,18 +21,9 @@ Hi! I'm Yifei Huang (黄逸飞), a Project Assistant Professor (特任助教) in
 
 I received my PhD and M.S. from the Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
 
-
-# 🔥 News
-- One paper got  accepted by IJCV.
-- Served as an Area Chair for ICCV 2023 and CVPR 2024.
-- One paper got accepted by ICCV 2023.
-- Two papers got accepted by CVPR 2023.
-- Received Special Grant for Foreign Researchers (¥11,000,000) from [JSPS](https://www.jsps.go.jp/index.html).
-- One paper got accepted by ICLR 2023.
-- One paper got accepted by ECCV 2022.
-- Two papers got accepted by CVPR 2022.
-- Received Grant-in-Aid for Early-Career Scientists (¥4,550,000) from [JSPS](https://www.jsps.go.jp/index.html).
-- I got my Ph.D from the University of Tokyo and enrolled in the Institute of Industrial Science, the University of Tokyo as a 特任助教.
+# 🗞️ Academic Services
+- Area Chair: ICCV 2023, CVPR 2024.
+- Reviewer: T-PAMI, IJCV, CVPR, ICCV, ECCV, ACCV, ICML, NeurIPS, AAAI, TCSVT, ICRA, IWMUT, etc.
 
 # 💻 Researches
 I have published 20+ papers at the top international AI conferences with 1000+ <a href='https://scholar.google.com/citations?user=RU8gNcgAAAAJ'> Google Scholar </a> citations. My primary research interests lie in:
@@ -115,6 +106,7 @@ J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.
 Y. Yin, **Y. Huang<span>&#42;</span>**, R. Furuta, and Y. Sato.               
 **BMVC 2023**
 
-# 🗞️ Academic Services
-- Area Chair: ICCV 2023, CVPR 2024.
-- Reviewer: T-PAMI, IJCV, CVPR, ICCV, ECCV, ACCV, ICML, NeurIPS, AAAI, TCSVT, ICRA, IWMUT, etc.
+# 🔥 News
+- Served as an Area Chair for ICCV 2023 and CVPR 2024.
+- Received Special Grant for Foreign Researchers (¥11,000,000) from [JSPS](https://www.jsps.go.jp/index.html).
+- Received Grant-in-Aid for Early-Career Scientists (¥4,550,000) from [JSPS](https://www.jsps.go.jp/index.html).
