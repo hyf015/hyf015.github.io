@@ -1,0 +1,7 @@
+@inproceedings{huang2018predicting,
+  title={Predicting gaze in egocentric video by learning task-dependent attention transition},
+  author={Huang, Yifei and Cai, Minjie and Li, Zhenqiang and Sato, Yoichi},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={754--769},
+  year={2018}
+}
