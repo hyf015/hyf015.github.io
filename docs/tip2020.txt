@@ -1,0 +1,9 @@
+@article{huang2020mutual,
+  title={Mutual context network for jointly estimating egocentric gaze and action},
+  author={Huang, Yifei and Cai, Minjie and Li, Zhenqiang and Lu, Feng and Sato, Yoichi},
+  journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={7795--7806},
+  year={2020},
+  publisher={IEEE}
+}
