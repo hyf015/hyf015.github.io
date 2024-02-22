@@ -55,6 +55,10 @@ Please feel free to contact me by email for any suggestions, questions, or poten
 **Y. Huang**, X. Li, L. Yang, L. Gu, Y. Zhu, H. Seo, Q. Meng, T. Harada, and Y. Sato.               
 **BMVC 2021**
 
+1. [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/pdf/2112.01038) \| [[Project](https://ego4d-data.org/)] \| [[BibTex](/docs/ego4d.txt)]               
+K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.            
+**CVPR 2022** (<font color="blue">Best paper finalist.</font>)
+
 1. [Goal-Oriented Gaze Estimation for Zero-Shot Learning](http://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Goal-Oriented_Gaze_Estimation_for_Zero-Shot_Learning_CVPR_2021_paper.pdf) \| [[BibTex](/docs/cvpr2021.txt)]               
 Y.Liu, L.Zhou, X.Bai, **Y. Huang**, L. Gu, J. Zhou and T. Harada.
 **CVPR 2021**
@@ -66,28 +70,6 @@ Q. Zhang, **Y. Huang**, G. Chernyshov, J. Li, YS. Pai, and K. Kunze.
 1. [Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students' Awareness of Visual Impairment](https://www.researchgate.net/profile/Qing-Zhang-103/publication/359398906_GazeSync_Eye_Movement_Transfer_Using_an_Optical_Eye_Tracker_and_Monochrome_Liquid_Crystal_Displays/links/6239e7e33cf0f2118f4d1f3c/GazeSync-Eye-Movement-Transfer-Using-an-Optical-Eye-Tracker-and-Monochrome-Liquid-Crystal-Displays.pdf) \| [[BibTex](/docs/uist2022.txt)]               
 Q. Zhang, G. Barbareschi, **Y. Huang**, J. Li, YS. Pai, J. Ward and K. Kunze.               
 **UIST 2022**               
-
-
-### 📒 Topic:  Egocentric Video Understanding, Action Recognition/Segmentation/Anticipation, Vision-language Understanding.
-1. [Improving Action Segmentation via Graph-based Temporal Reasoning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Improving_Action_Segmentation_via_Graph-Based_Temporal_Reasoning_CVPR_2020_paper.pdf) \| [[Code](https://drive.google.com/file/d/1Bc02QyoWzPNAd1djswCoYxxAHBjITrQ3/view?usp=sharing)] \| [[BibTex](/docs/cvpr2020.txt)]               
-**Y. Huang**, Y. Sugano and Y. Sato.               
-**CVPR 2020**
-
-1. [Interact before Align: Leveraging Cross-Modal Knowledge for Domain Adaptive Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Interact_Before_Align_Leveraging_Cross-Modal_Knowledge_for_Domain_Adaptive_Action_CVPR_2022_paper.pdf) \| [[BibTex](/docs/cvpr2022.txt)]               
-L. Yang, **Y. Huang<span>&#42;</span>**, Y. Sugano and Y. Sato.               
-**CVPR 2022**
-
-1. [Stacked Temporal Attention: Improving First-person Action Recognition by Emphasizing Discriminative Clips](https://arxiv.org/pdf/2112.01038) \| [[BibTex](/docs/bmvc2021-2.txt)]               
-L. Yang, **Y. Huang<span>&#42;</span>**, Y. Sugano and Y. Sato.               
-**BMVC 2021**
-
-1. [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/pdf/2112.01038) \| [[Project](https://ego4d-data.org/)] \| [[BibTex](/docs/ego4d.txt)]               
-K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.            
-**CVPR 2022** (<font color="blue">Best paper finalist.</font>)
-
-1. [Memory-and-Anticipation Transformer for Online Action Understanding](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Memory-and-Anticipation_Transformer_for_Online_Action_Understanding_ICCV_2023_paper.pdf) \| [[BibTex](/docs/iccv2023.txt)]               
-J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.            
-**ICCV 2023**
 
 ### 📒 Topic:  Video Understanding from Limited Labels, Few-shot Learning.
 1. [Matching Compound Prototypes for Few-Shot Action Recognition]() \| [[Code](https://drive.google.com/file/d/1brIAthibvoc86evIQUa01CULQZ7Ko8Z5/view?usp=sharing)] \| [[BibTex](/docs/ijcv2024.txt)]               
@@ -102,9 +84,25 @@ J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.
 **Y. Huang**, L. Yang, and Y. Sato.               
 **ECCV 2022**
 
-1. [Proposal-based Temporal Action Localization with Point-level Supervision](https://arxiv.org/pdf/2310.05511) \| [[BibTex](/docs/bmvc2023.txt)]               
-Y. Yin, **Y. Huang<span>&#42;</span>**, R. Furuta, and Y. Sato.               
-**BMVC 2023**
+1. [Improving Action Segmentation via Graph-based Temporal Reasoning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Improving_Action_Segmentation_via_Graph-Based_Temporal_Reasoning_CVPR_2020_paper.pdf) \| [[Code](https://drive.google.com/file/d/1Bc02QyoWzPNAd1djswCoYxxAHBjITrQ3/view?usp=sharing)] \| [[BibTex](/docs/cvpr2020.txt)]               
+**Y. Huang**, Y. Sugano and Y. Sato.               
+**CVPR 2020**
+
+### 📒 Topic:  Egocentric Video Understanding.
+1. [Improving Action Segmentation via Graph-based Temporal Reasoning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Improving_Action_Segmentation_via_Graph-Based_Temporal_Reasoning_CVPR_2020_paper.pdf) \| [[Code](https://drive.google.com/file/d/1Bc02QyoWzPNAd1djswCoYxxAHBjITrQ3/view?usp=sharing)] \| [[BibTex](/docs/cvpr2020.txt)]               
+**Y. Huang**, Y. Sugano and Y. Sato.               
+**CVPR 2020**
+
+1. [Interact before Align: Leveraging Cross-Modal Knowledge for Domain Adaptive Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Interact_Before_Align_Leveraging_Cross-Modal_Knowledge_for_Domain_Adaptive_Action_CVPR_2022_paper.pdf) \| [[BibTex](/docs/cvpr2022.txt)]               
+L. Yang, **Y. Huang<span>&#42;</span>**, Y. Sugano and Y. Sato.               
+**CVPR 2022**
+
+
+1. [Memory-and-Anticipation Transformer for Online Action Understanding](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Memory-and-Anticipation_Transformer_for_Online_Action_Understanding_ICCV_2023_paper.pdf) \| [[BibTex](/docs/iccv2023.txt)]               
+J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.            
+**ICCV 2023**
+
+
 
 # 🔥 News
 - Served as an Area Chair for ICCV 2023 and CVPR 2024.
