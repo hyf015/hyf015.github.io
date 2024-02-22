@@ -34,7 +34,7 @@ I have published 20+ papers at the top international AI conferences with 1000+ <
 
 - Video understanding from limited labels, few-shot learning, domain adaptation.
 
-Please feel free to contact me by email (hyf[at]iis[dot]u-tokyo[dot]ac[dot]jp) for any suggestions, questions, or potential collaborations.
+Please feel free to contact me by email for any suggestions, questions, or potential collaborations.
 
 # 📝 Publications 
 (* denotes corresponding author)
