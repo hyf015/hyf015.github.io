@@ -30,19 +30,42 @@ My research interest includes neural machine translation and computer vision. I 
 - Served as an Area Chair for ICCV 2023 and CVPR 2024.
 - One paper got accepted by ICCV 2023.
 - Two papers got accepted by CVPR 2023.
-- Received Special Grant for Foreign Researchers from [JSPS](https://www.jsps.go.jp/index.html).
+- Received Special Grant for Foreign Researchers (¥11,000,000) from [JSPS](https://www.jsps.go.jp/index.html).
 - One paper got accepted by ICLR 2023.
 - One paper got accepted by ECCV 2022.
 - Two papers got accepted by CVPR 2022.
-- Received Grant-in-Aid for Early-Career Scientists (¥5,000,000) from [JSPS](https://www.jsps.go.jp/index.html).
+- Received Grant-in-Aid for Early-Career Scientists (¥4,550,000) from [JSPS](https://www.jsps.go.jp/index.html).
 - I got my Ph.D from the University of Tokyo and enrolled in the Institute of Industrial Science, the University of Tokyo as a 特任助教.
 
-# 📝 Publications 
+# 💻 Researches
+My primary research interests lie in 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- First-person (egocentric) videos, egocentric gaze, and gaze-guided interaction systems.
+
+- Egocentric video understanding, action recognition/segmentation/anticipation, vision-language understanding.
+
+- Video understanding from limited labels, few-shot learning, domain adaptation.
+
+Please feel free to drop me an email for any suggestions or potential collaborations.
+
+# 📝 Publications 
+### 📒 Topic:  First-person (egocentric) Videos, Egocentric Gaze, and Gaze-guided Interaction Systems
+1. [Predicting gaze in egocentric videos by learning task-dependent attention transition](https://cai-mj.github.io/files/HCLS_eccv_arxiv2018.pdf)  \|  [[Project](https://cai-mj.github.io/project/egocentric_gaze_prediction)]  \| [[Code & Data](https://github.com/hyf015/egocentric-gaze-prediction)]  \| [BibTex](../assets/eccv18.txt)
+**Y. Huang**, M. Cai, Z. Li, and Y. Sato (<font color="blue">oral presentation, acceptance rate: 2%</font>)
+**ECCV 2018**
+
+2. [Mutual Context Network for Jointly Estimating Egocentric Gaze and Actions](https://arxiv.org/pdf/1901.01874) \|  [[Project & Code](https://cai-mj.github.io/project/egocentric_gaze_prediction)]  \| [[BibTex](../assets/tip20.txt)]
+**Y. Huang**, M. Cai, Z. Li, F. Lu, and Y. Sato.
+**IEEE TIP 2020**
+
+3. [Mutual Context Network for Jointly Estimating Egocentric Gaze and Actions](https://arxiv.org/pdf/1901.01874) \|  [[Project & Code](https://cai-mj.github.io/project/egocentric_gaze_prediction)]  \| [[BibTex](../assets/tip20.txt)]
+**Y. Huang**, M. Cai, Z. Li, F. Lu, and Y. Sato.
+**IEEE TIP 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Matching Compound Prototypes for Few-Shot Action Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
