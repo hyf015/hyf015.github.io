@@ -92,6 +92,11 @@ L. Yang, **Y. Huang<span>&#42;</span>**, Y. Sugano and Y. Sato.
 J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.            
 **ICCV 2023**
 
+1. [Retrieval-augmented Egocentric Video Captioning](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Memory-and-Anticipation_Transformer_for_Online_Action_Understanding_ICCV_2023_paper.pdf) \| [[BibTex](/docs/iccv2023.txt)]               
+J. Xu, **Y. Huang**, J. Hou, G. Chen, Y. Zhang, R. Feng, and W. Xie.            
+**CVPR 2024**
+
+
 
 ### 📒 Topic:  Egocentric Video Benchmarks.
 1. [EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World](https://arxiv.org/pdf/2112.01038) \| [[Project](https://ego4d-data.org/)] \| [[BibTex](/docs/ego4d.txt)]               
