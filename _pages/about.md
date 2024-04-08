@@ -92,14 +92,14 @@ L. Yang, **Y. Huang<span>&#42;</span>**, Y. Sugano and Y. Sato.
 J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.            
 **ICCV 2023**
 
-1. [Retrieval-augmented Egocentric Video Captioning](https://arxiv.org/pdf/2401.00789) \| [[BibTex]()]               
+1. [Retrieval-augmented Egocentric Video Captioning](https://arxiv.org/pdf/2401.00789) \| [[BibTex](/docs/cvpr2024-x.txt)]               
 J. Xu, **Y. Huang**, J. Hou, G. Chen, Y. Zhang, R. Feng, and W. Xie.            
 **CVPR 2024**
 
 
 
 ### 📒 Topic:  Egocentric Video Benchmarks.
-1. [EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World]() \| [[Project]()] \| [[BibTex]()]               
+1. [EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World](https://arxiv.org/abs/2403.16182) \| [[Project](https://github.com/OpenGVLab/EgoExoLearn)] \| [[BibTex](/docs/cvpr2024-h/txt)]               
 **Y. Huang**, G. Chen, J. Xu, ... , Y. Qiao          
 **CVPR 2024** 
 
@@ -107,7 +107,7 @@ J. Xu, **Y. Huang**, J. Hou, G. Chen, Y. Zhang, R. Feng, and W. Xie.
 K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.            
 **CVPR 2022** (<font color="blue">Best paper finalist.</font>)
 
-1. [Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives](https://arxiv.org/pdf/2311.18259) \| [[Project](https://ego-exo4d-data.org/)] \| [[BibTex](/docs/ego4d.txt)]               
+1. [Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives](https://arxiv.org/pdf/2311.18259) \| [[Project](https://ego-exo4d-data.org/)] \| [[BibTex](/docs/egoexo4d.txt)]               
 K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.         
 **CVPR 2024** 
 
