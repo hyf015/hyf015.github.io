@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yifei Huang (黄逸飞), a Project Assistant Professor (特任助教) in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), the [University of Tokyo](http://www.u-tokyo.ac.jp/en/). I am now working with [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html). I focus on the understanding and assistance of egocentric activities using first-person cues.
+Hi! I'm Yifei Huang (黄逸飞). I received my PhD and M.S. from the Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I am currently a Project Assistant Professor (特任助教) in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), the [University of Tokyo](http://www.u-tokyo.ac.jp/en/). I am fortunate to have worked with esteemed researchers like [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html), Prof. [Yusuke Sugano](https://www.yusuke-sugano.info/), Prof. [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), Prof. [Kris Kitani](https://kriskitani.github.io/), Prof. [Kai Kunze](https://kaikunze.de/), and Prof. [Weidi Xie](https://weidixie.github.io/). I focus on exciting topics in video understanding, egocentric vision, and their applications. 
 
-I received my PhD and M.S. from the Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/).
+
 
 # 🗞️ Academic Services
 - Area Chair: ICCV 2023, CVPR 2024.
@@ -109,13 +109,14 @@ K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.
 
 1. [Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives](https://arxiv.org/pdf/2311.18259) \| [[Project](https://ego-exo4d-data.org/)] \| [[BibTex](/docs/egoexo4d.txt)]               
 K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.         
-**CVPR 2024** 
+**CVPR 2024** (<font color="blue">oral presentation</font>) 
 
 
 
 
 
 # 🔥 News
+- 3 Papers accepted by CVPR 2024.
 - Served as an Area Chair for ICCV 2023 and CVPR 2024.
 - Received Special Grant for Foreign Researchers (¥11,000,000) from [JSPS](https://www.jsps.go.jp/index.html).
 - Received Grant-in-Aid for Early-Career Scientists (¥4,550,000) from [JSPS](https://www.jsps.go.jp/index.html).
