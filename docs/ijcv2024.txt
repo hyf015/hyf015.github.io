@@ -1,0 +1,6 @@
+@article{huang2024matching,
+  title={Matching Compound Prototypes for Few-Shot Action Recognition},
+  author={Huang, Yifei and Yang, Lijin and Chen, Guo and Hongjie, Zhang and Feng, Lu and Sato, Yoichi},
+  journal={International Journal of Computer Vision},
+  year={2024}
+}

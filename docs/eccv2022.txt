@@ -1,0 +1,8 @@
+@inproceedings{huang2022compound,
+  title={Compound prototype matching for few-shot action recognition},
+  author={Huang, Yifei and Yang, Lijin and Sato, Yoichi},
+  booktitle={European Conference on Computer Vision},
+  pages={351--368},
+  year={2022},
+  organization={Springer}
+}

@@ -1,0 +1,7 @@
+@inproceedings{liu2021goal,
+  title={Goal-oriented gaze estimation for zero-shot learning},
+  author={Liu, Yang and Zhou, Lei and Bai, Xiao and Huang, Yifei and Gu, Lin and Zhou, Jun and Harada, Tatsuya},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={3794--3803},
+  year={2021}
+}

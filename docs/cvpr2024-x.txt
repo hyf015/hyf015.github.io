@@ -1,0 +1,6 @@
+@article{xu2024retrieval,
+  title={Retrieval-augmented egocentric video captioning},
+  author={Xu, Jilan and Huang, Yifei and Hou, Junlin and Chen, Guo and Zhang, Yuejie and Feng, Rui and Xie, Weidi},
+  journal={arXiv preprint arXiv:2401.00789},
+  year={2024}
+}

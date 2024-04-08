@@ -1,0 +1,7 @@
+@inproceedings{huang2023weakly,
+  title={Weakly supervised temporal sentence grounding with uncertainty-guided self-training},
+  author={Huang, Yifei and Yang, Lijin and Sato, Yoichi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={18908--18918},
+  year={2023}
+}

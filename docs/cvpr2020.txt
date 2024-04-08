@@ -1,0 +1,7 @@
+@inproceedings{huang2020improving,
+  title={Improving action segmentation via graph-based temporal reasoning},
+  author={Huang, Yifei and Sugano, Yusuke and Sato, Yoichi},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={14024--14034},
+  year={2020}
+}

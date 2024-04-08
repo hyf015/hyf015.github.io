@@ -1,0 +1,7 @@
+@inproceedings{wang2023memory,
+  title={Memory-and-Anticipation Transformer for Online Action Understanding},
+  author={Wang, Jiahao and Chen, Guo and Huang, Yifei and Wang, Limin and Lu, Tong},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={13824--13835},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{huang2021leveraging,
+  title={Leveraging human selective attention for medical image analysis with limited training data},
+  author={Huang, Yifei and Li, Xiaoxiao and Yang, Lijin and Gu, Lin and Zhu, Yingying and Seo, Hirofumi and Meng, Qiuming and Harada, Tatsuya and Sato, Yoichi},
+  journal={arXiv preprint arXiv:2112.01034},
+  year={2021}
+}

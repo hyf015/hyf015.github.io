@@ -1,0 +1,6 @@
+ @InProceedings{huang2024egoexolearn,
+     title={EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World},
+     author={Huang, Yifei and Chen, Guo and Xu, Jilan and Zhang, Mingfang and Yang, Lijin and Pei, Baoqi and Zhang, Hongjie and Lu, Dong and Wang, Yali and Wang, Limin and Qiao, Yu},
+     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+     year={2024}
+ }

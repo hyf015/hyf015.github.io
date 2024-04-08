@@ -1,0 +1,7 @@
+@inproceedings{yang2022interact,
+  title={Interact before align: Leveraging cross-modal knowledge for domain adaptive action recognition},
+  author={Yang, Lijin and Huang, Yifei and Sugano, Yusuke and Sato, Yoichi},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={14722--14732},
+  year={2022}
+}

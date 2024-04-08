@@ -1,0 +1,7 @@
+@inproceedings{zhang2022gazesync,
+  title={GazeSync: Eye movement transfer using an optical eye tracker and monochrome liquid crystal displays},
+  author={Zhang, Qing and Huang, Yifei and Chernyshov, George and Li, Juling and Pai, Yun Suen and Kunze, Kai},
+  booktitle={27th International Conference on Intelligent User Interfaces},
+  pages={54--57},
+  year={2022}
+}

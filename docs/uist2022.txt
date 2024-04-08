@@ -1,0 +1,7 @@
+@inproceedings{zhang2022seeing,
+  title={Seeing our blind spots: smart glasses-based simulation to increase design students’ awareness of visual impairment},
+  author={Zhang, Qing and Barbareschi, Giulia and Huang, Yifei and Li, Juling and Pai, Yun Suen and Ward, Jamie and Kunze, Kai},
+  booktitle={Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology},
+  pages={1--14},
+  year={2022}
+}
