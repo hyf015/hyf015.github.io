@@ -88,10 +88,6 @@ Q. Zhang, G. Barbareschi, **Y. Huang**, J. Li, YS. Pai, J. Ward and K. Kunze.
 L. Yang, **Y. Huang<span>&#42;</span>**, Y. Sugano and Y. Sato.               
 **CVPR 2022**
 
-1. [Memory-and-Anticipation Transformer for Online Action Understanding](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Memory-and-Anticipation_Transformer_for_Online_Action_Understanding_ICCV_2023_paper.pdf) \| [[BibTex](/docs/iccv2023.txt)]               
-J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.            
-**ICCV 2023**
-
 1. [Retrieval-augmented Egocentric Video Captioning](https://arxiv.org/pdf/2401.00789) \| [[BibTex](/docs/cvpr2024-x.txt)] \| [[Project&Code]](https://jazzcharles.github.io/Egoinstructor/)              
 J. Xu, **Y. Huang**, J. Hou, G. Chen, Y. Zhang, R. Feng, and W. Xie.            
 **CVPR 2024**
