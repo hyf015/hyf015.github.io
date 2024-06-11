@@ -92,14 +92,14 @@ L. Yang, **Y. Huang<span>&#42;</span>**, Y. Sugano and Y. Sato.
 J. Wang, G. Chen, **Y. Huang**, L. Wang and T. Lu.            
 **ICCV 2023**
 
-1. [Retrieval-augmented Egocentric Video Captioning](https://arxiv.org/pdf/2401.00789) \| [[BibTex](/docs/cvpr2024-x.txt)]               
+1. [Retrieval-augmented Egocentric Video Captioning](https://arxiv.org/pdf/2401.00789) \| [[BibTex](/docs/cvpr2024-x.txt)] \| [[Project&Code]](https://jazzcharles.github.io/Egoinstructor/)              
 J. Xu, **Y. Huang**, J. Hou, G. Chen, Y. Zhang, R. Feng, and W. Xie.            
 **CVPR 2024**
 
 
 
 ### 📒 Topic:  Egocentric Video Benchmarks.
-1. [EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World](https://arxiv.org/abs/2403.16182) \| [[Project](https://github.com/OpenGVLab/EgoExoLearn)] \| [[BibTex](/docs/cvpr2024-h/txt)]               
+1. [EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World](https://arxiv.org/abs/2403.16182) \| [[Project&Code](https://github.com/OpenGVLab/EgoExoLearn)] \| [[BibTex](/docs/cvpr2024-h/txt)]               
 **Y. Huang**, G. Chen, J. Xu, ... , Y. Qiao          
 **CVPR 2024** 
 
