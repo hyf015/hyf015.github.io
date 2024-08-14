@@ -112,6 +112,7 @@ K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.
 
 
 # 🔥 News
+- 3 Papers accepted by ECCV 2024, in which [ActionVOS](https://arxiv.org/pdf/2407.07402) got accepted as oral!
 - 3 Papers accepted by CVPR 2024.
 - Served as an Area Chair for ICCV 2023 and CVPR 2024.
 - Received Special Grant for Foreign Researchers (¥11,000,000) from [JSPS](https://www.jsps.go.jp/index.html).
