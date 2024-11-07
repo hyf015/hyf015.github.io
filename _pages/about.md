@@ -72,7 +72,7 @@ Q. Zhang, G. Barbareschi, **Y. Huang**, J. Li, YS. Pai, J. Ward and K. Kunze.
 **Y. Huang**, L. Yang, G. Chen, H. Zhang, F. Lu, and Y. Sato.               
 **IJCV 2024**
 
-1. [Weakly Supervised Temporal Sentence Grounding With Uncertainty-Guided Self-Training](http://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Weakly_Supervised_Temporal_Sentence_Grounding_With_Uncertainty-Guided_Self-Training_CVPR_2023_paper.pdf) \| [[Code]()] \| [[BibTex](/docs/cvpr2023.txt)]               
+1. [Weakly Supervised Temporal Sentence Grounding With Uncertainty-Guided Self-Training](http://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Weakly_Supervised_Temporal_Sentence_Grounding_With_Uncertainty-Guided_Self-Training_CVPR_2023_paper.pdf) \| [[Code](https://drive.google.com/drive/folders/1na35rpEgLYE6fet6SM3N-ZSoyYDs11To?usp=sharing)] \| [[BibTex](/docs/cvpr2023.txt)]               
 **Y. Huang**, L. Yang, and Y. Sato.               
 **CVPR 2023**
 
