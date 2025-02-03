@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yifei Huang (黄逸飞). I received my PhD and M.S. from the Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I am currently a Project Assistant Professor (特任助教) in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), the [University of Tokyo](http://www.u-tokyo.ac.jp/en/). I am fortunate to have worked with esteemed researchers like [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html), Prof. [Yusuke Sugano](https://www.yusuke-sugano.info/), Prof. [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), Prof. [Kris Kitani](https://kriskitani.github.io/), Prof. [Kai Kunze](https://kaikunze.de/), and Prof. [Weidi Xie](https://weidixie.github.io/). I focus on exciting topics in video understanding, egocentric vision, and their applications. 
+Hi! I'm Yifei Huang (黄逸飞). I am currently a Project Researcher (特任研究員) in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), and an adjunct researcher in Shanghai AI Lab working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/). I received my PhD and M.S. from the Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I am fortunate to have worked with esteemed researchers like [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html), Prof. [Yusuke Sugano](https://www.yusuke-sugano.info/), Prof. [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), Prof. [Limin Wang](https://wanglimin.github.io/), Prof. [Kris Kitani](https://kriskitani.github.io/), Prof. [Kai Kunze](https://kaikunze.de/), and Prof. [Weidi Xie](https://weidixie.github.io/). I focus on exciting topics in video understanding, egocentric vision and their applications, especially in embodied AI and VR/AR. 
 
 
 
@@ -26,11 +26,11 @@ Hi! I'm Yifei Huang (黄逸飞). I received my PhD and M.S. from the Graduate Sc
 - Reviewer: T-PAMI, IJCV, CVPR, ICCV, ECCV, ACCV, ICML, NeurIPS, AAAI, TCSVT, ICRA, IWMUT, etc.
 
 # 💻 Researches
-I have published 20+ papers at the top international AI conferences with 1000+ <a href='https://scholar.google.com/citations?user=RU8gNcgAAAAJ'> Google Scholar </a> citations. My primary research interests lie in:
+I have published 20+ papers at the top international AI conferences with 2000+ <a href='https://scholar.google.com/citations?user=RU8gNcgAAAAJ'> Google Scholar </a> citations. My primary research interests lie in:
 
 - First-person (egocentric) videos, egocentric gaze, and gaze-guided interaction systems.
 
-- Egocentric video understanding, action recognition/segmentation/anticipation, vision-language understanding.
+- Egocentric video understanding in Embodied AI, vision-language understanding.
 
 - Video understanding from limited labels, few-shot learning, domain adaptation.
 
