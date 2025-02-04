@@ -21,10 +21,6 @@ Hi! I'm Yifei Huang (黄逸飞). I am currently a Project Researcher (特任研�
 
 
 
-# 🗞️ Academic Services
-- Area Chair: ICCV 2023, CVPR 2024.
-- Reviewer: T-PAMI, IJCV, CVPR, ICCV, ECCV, ACCV, ICML, NeurIPS, AAAI, TCSVT, ICRA, IWMUT, etc.
-
 # 💻 Researches
 I have published 20+ papers at the top international AI conferences with 2000+ <a href='https://scholar.google.com/citations?user=RU8gNcgAAAAJ'> Google Scholar </a> citations. My primary research interests lie in:
 
@@ -35,6 +31,10 @@ I have published 20+ papers at the top international AI conferences with 2000+ <
 - Video understanding from limited labels, few-shot learning, domain adaptation.
 
 Please feel free to contact me by email for any suggestions, questions, or potential collaborations.
+
+# 🗞️ Academic Services
+- Area Chair: ICCV 2023, CVPR 2024, 2025.
+- Reviewer: T-PAMI, IJCV, CVPR, ICCV, ECCV, ACCV, ICML, NeurIPS, ICLR, AAAI, TCSVT, ICRA, IWMUT, etc.
 
 # 📝 Publications 
 (* denotes corresponding author)
