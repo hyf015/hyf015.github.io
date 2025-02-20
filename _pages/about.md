@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yifei Huang (黄逸飞). I am currently a Project Researcher (特任研究員) in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), and an adjunct researcher in Shanghai AI Lab working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/). I received my PhD and M.S. from the Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I am fortunate to have worked with esteemed researchers like [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html), Prof. [Yusuke Sugano](https://www.yusuke-sugano.info/), Prof. [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), Prof. [Limin Wang](https://wanglimin.github.io/), Prof. [Kris Kitani](https://kriskitani.github.io/), Prof. [Kai Kunze](https://kaikunze.de/), and Prof. [Weidi Xie](https://weidixie.github.io/). I focus on exciting topics in video understanding, egocentric vision and their applications, especially in embodied AI and VR/AR. 
+Hi! I'm Yifei Huang (黄逸飞). I am currently a Project Researcher (特任研究員) in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), and an adjunct researcher in Shanghai AI Lab working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/). I received my PhD and M.S. from the Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I am fortunate to have worked with esteemed researchers like [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html), Prof. [Yusuke Sugano](https://www.yusuke-sugano.info/), Prof. [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), Prof. [Limin Wang](https://wanglimin.github.io/), Prof. [Kris Kitani](https://kriskitani.github.io/), Prof. [Kai Kunze](https://kaikunze.de/), and Prof. [Weidi Xie](https://weidixie.github.io/). I focus on exciting topics in video understanding, egocentric vision, and their applications, especially in embodied AI and VR/AR. 
 
+**<span style="color: red;">We have intern positions in Shanghai (offline). If you are interested in working on the intersection of egocentric vision and embodied AI, feel free to contact me at hyf015 <at> gmail <dot> com.</span>**
 
 
 # 💻 Researches
@@ -33,7 +34,7 @@ I have published 20+ papers at the top international AI conferences with 2000+ <
 Please feel free to contact me by email for any suggestions, questions, or potential collaborations.
 
 # 🗞️ Academic Services
-- Area Chair: ICCV 2023, CVPR 2024, 2025.
+- Area Chair: ICCV, CVPR.
 - Reviewer: T-PAMI, IJCV, CVPR, ICCV, ECCV, ACCV, ICML, NeurIPS, ICLR, AAAI, TCSVT, ICRA, IWMUT, etc.
 
 # 📝 Publications 
@@ -112,6 +113,7 @@ K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.
 
 
 # 🔥 News
+- 4 Papers accepted by ICLR 2025.
 - 3 Papers accepted by ECCV 2024, in which [ActionVOS](https://arxiv.org/pdf/2407.07402) got accepted as oral!
 - 3 Papers accepted by CVPR 2024.
 - Served as an Area Chair for ICCV 2023 and CVPR 2024.
