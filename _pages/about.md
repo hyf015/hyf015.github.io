@@ -19,15 +19,15 @@ redirect_from:
 
 Hi! I'm Yifei Huang (黄逸飞). I am currently a Project Researcher (特任研究員) in [Sato Laboratory](http://www.hci.iis.u-tokyo.ac.jp/), the [University of Tokyo](http://www.u-tokyo.ac.jp/en/). I am also in active collaboration with Shanghai AI Lab, working with [Dr. Jiangmiao Pang](https://oceanpang.github.io/). I received my PhD and M.S. from the Graduate School of Information Science and Technology at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/), supervised by Prof. Yoichi Sato, under the support of the [Global Creative Leader](http://www.gcl.i.u-tokyo.ac.jp/) program of the University of Tokyo. I received my B.S. in Automation in [IEEE honor class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm) of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I am fortunate to have worked with esteemed researchers like [Prof. Yoichi Sato](http://www.hci.iis.u-tokyo.ac.jp/~ysato/index.html), Prof. [Yusuke Sugano](https://www.yusuke-sugano.info/), Prof. [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), Prof. [Limin Wang](https://wanglimin.github.io/), Prof. [Kris Kitani](https://kriskitani.github.io/), Prof. [Kai Kunze](https://kaikunze.de/), and Prof. [Weidi Xie](https://weidixie.github.io/). I focus on exciting topics in video understanding, egocentric vision, and their applications, especially in embodied AI and VR/AR. 
 
-<span style="color: red; font-weight: bold;">We have intern positions in Shanghai (offline). If you are interested in working on the intersection of egocentric vision and embodied AI, feel free to contact me at hyf015 at gmail dot com.</span>
+<span style="color: red; font-weight: bold;">We have intern positions in Shanghai (offline). If you are interested in working on LVLM for embodied AI, feel free to contact me at hyf015 at gmail dot com.</span>
 
 
 # 💻 Researches
-I have published 20+ papers at the top international AI conferences with 2000+ <a href='https://scholar.google.com/citations?user=RU8gNcgAAAAJ'> Google Scholar </a> citations. My primary research interests lie in:
+I have published 20+ papers at the top international AI conferences with 3000+ <a href='https://scholar.google.com/citations?user=RU8gNcgAAAAJ'> Google Scholar </a> citations. My primary research interests lie in:
 
 - First-person (egocentric) videos, egocentric gaze, and gaze-guided interaction systems.
 
-- Egocentric video understanding in Embodied AI, vision-language understanding.
+- Large Vision-language Models for Embodied AI.
 
 - Video understanding from limited labels, few-shot learning, domain adaptation.
 
@@ -40,9 +40,13 @@ Please feel free to contact me by email for any suggestions, questions, or poten
 # 📝 Publications 
 (* denotes corresponding author)
 ### 📒 Topic:  First-person (egocentric) Videos, Egocentric Gaze, and Gaze-guided Interaction Systems
-1. [Predicting gaze in egocentric videos by learning task-dependent attention transition](https://cai-mj.github.io/files/HCLS_eccv_arxiv2018.pdf)  \|  [[Project](https://cai-mj.github.io/project/egocentric_gaze_prediction)]  \| [[Code & Data](https://github.com/hyf015/egocentric-gaze-prediction)]  \| [[BibTex](/docs/eccv2018.txt)]               
-**Y. Huang**, M. Cai, Z. Li, and Y. Sato. (<font color="blue">oral presentation, acceptance rate: 2%</font>)               
-**ECCV 2018**               
+1. [Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning](https://openreview.net/forum?id=P6G1Z6jkf3) \|  [[Code](https://github.com/OpenRobotLab/EgoHOD)]  \| [[Data](https://huggingface.co/datasets/Jazzcharles/EgoHOD)]
+B. Pei, **Y. Huang<span>&#42;</span>**, J. Xu, G. Chen, Y. He, Y. Yang, Y. Wang, W. Xie, Y. Qiao, F. Wu, L. Wang
+**ICLR 2025**
+
+1. [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](https://arxiv.org/pdf/2407.06628)
+M. Zhang, **Y. Huang<span>&#42;</span>**, R. Liu, Y. Sato
+**ECCV 2024**
 
 1. [Mutual Context Network for Jointly Estimating Egocentric Gaze and Actions](https://arxiv.org/pdf/1901.01874) \|  [[Project & Code](https://cai-mj.github.io/project/egocentric_gaze_prediction)]  \| [[BibTex](/docs/tip2020.txt)]               
 **Y. Huang**, M. Cai, Z. Li, F. Lu, and Y. Sato.               
@@ -55,6 +59,10 @@ Please feel free to contact me by email for any suggestions, questions, or poten
 1. [Leveraging Human Selective Attention for Medical Image Analysis with Limited Training Data](https://arxiv.org/pdf/2112.01034) \| [[BibTex](/docs/bmvc2021-1.txt)]               
 **Y. Huang**, X. Li, L. Yang, L. Gu, Y. Zhu, H. Seo, Q. Meng, T. Harada, and Y. Sato.               
 **BMVC 2021**
+
+1. [Predicting gaze in egocentric videos by learning task-dependent attention transition](https://cai-mj.github.io/files/HCLS_eccv_arxiv2018.pdf)  \|  [[Project](https://cai-mj.github.io/project/egocentric_gaze_prediction)]  \| [[Code & Data](https://github.com/hyf015/egocentric-gaze-prediction)]  \| [[BibTex](/docs/eccv2018.txt)]               
+**Y. Huang**, M. Cai, Z. Li, and Y. Sato. (<font color="blue">oral presentation, acceptance rate: 2%</font>)               
+**ECCV 2018**    
 
 1. [Goal-Oriented Gaze Estimation for Zero-Shot Learning](http://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Goal-Oriented_Gaze_Estimation_for_Zero-Shot_Learning_CVPR_2021_paper.pdf) \| [[BibTex](/docs/cvpr2021.txt)]               
 Y.Liu, L.Zhou, X.Bai, **Y. Huang**, L. Gu, J. Zhou and T. Harada.
@@ -93,9 +101,15 @@ L. Yang, **Y. Huang<span>&#42;</span>**, Y. Sugano and Y. Sato.
 J. Xu, **Y. Huang**, J. Hou, G. Chen, Y. Zhang, R. Feng, and W. Xie.            
 **CVPR 2024**
 
+1. [EgoExo-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos](https://openreview.net/forum?id=8J2DrrWDKE)
+J. Xu, **Y. Huang**, B. Pei, J. Hou, Q. Li, G. Chen, Y. Zhang, R. Feng, and W. Xie.            
+**ICLR 2025**
+
+1. [Prompt-augmented Boundary Attentive Learning for Weakly Supervised Temporal Sentence Grounding](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11015819)
+Z. Zhu, **Y. Huang<span>&#42;</span>**, M. Zhang, L. Ouyang, Y. Sato
 
 
-### 📒 Topic:  Egocentric Video Benchmarks.
+### 📒 Topic:  Egocentric & Video Benchmarks.
 1. [EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World](https://arxiv.org/abs/2403.16182) \| [[Project&Code](https://github.com/OpenGVLab/EgoExoLearn)] \| [[BibTex](/docs/cvpr2024-h/txt)]               
 **Y. Huang**, G. Chen, J. Xu, ... , Y. Qiao          
 **CVPR 2024** 
@@ -106,9 +120,15 @@ K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.
 
 1. [Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives](https://arxiv.org/pdf/2311.18259) \| [[Project](https://ego-exo4d-data.org/)] \| [[BibTex](/docs/egoexo4d.txt)]               
 K. Grauman, A. Westbury, ..., **Y. Huang**, ..., J. Malik.         
-**CVPR 2024** (<font color="blue">oral presentation</font>) 
+**CVPR 2024** (<font color="blue">oral presentation</font>)
 
+1. [ActionVOS: Actions as Prompts for Video Object Segmentation](https://arxiv.org/abs/2407.07402) \| [[Project&Code]([https://github.com/OpenGVLab/EgoExoLearn](https://github.com/ut-vision/ActionVOS))]
+L. Ouyang, R. Liu, **Y. Huang<span>&#42;</span>**, R. Furuta, and Y. Sato.
+**ECCV 2024** (<font color="blue">oral presentation</font>)
 
+1. [CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding](https://arxiv.org/abs/2412.12075) \| [[Leaderboard]([[https://github.com/OpenGVLab/EgoExoLearn](https://cg-bench.github.io/leaderboard/))]
+G. Chen<span>&#42;</span>, Y. Liu<span>&#42;</span>, **Y. Huang<span>&#42;</span>**, Y. He, B. Pei, J. Xu, Y. Wang, T. Lu, L. Wang
+**ICLR 2025**
 
 
 
