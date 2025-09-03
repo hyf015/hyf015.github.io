@@ -34,12 +34,16 @@ I have published 20+ papers at the top international AI conferences with 3000+ <
 Please feel free to contact me by email for any suggestions, questions, or potential collaborations.
 
 # 🗞️ Academic Services
-- Area Chair: ICCV, CVPR.
+- Area Chair: ICCV, CVPR, ICLR.
 - Reviewer: T-PAMI, IJCV, CVPR, ICCV, ECCV, ACCV, ICML, NeurIPS, ICLR, AAAI, TCSVT, ICRA, IWMUT, etc.
 
 # 📝 Publications 
 (* denotes corresponding author)
 ### 📒 Topic:  First-person (egocentric) Videos, Egocentric Gaze, and Gaze-guided Interaction Systems
+1. [Vinci: A Real-time Smart Assistant based on Egocentric Vision-language Model for Portable Devices](https://github.com/OpenGVLab/vinci) \| [[Code](https://github.com/OpenGVLab/vinci)]
+**Y. Huang**, J. Xu, B. Pei, L. Yang et, al.
+**IMWUT 2025**
+
 1. [Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning](https://openreview.net/forum?id=P6G1Z6jkf3) \|  [[Code](https://github.com/OpenRobotLab/EgoHOD)]  \| [[Data](https://huggingface.co/datasets/Jazzcharles/EgoHOD)]
 B. Pei, **Y. Huang<span>&#42;</span>**, J. Xu, G. Chen, Y. He, Y. Yang, Y. Wang, W. Xie, Y. Qiao, F. Wu, L. Wang
 **ICLR 2025**
@@ -108,6 +112,18 @@ J. Xu, **Y. Huang**, B. Pei, J. Hou, Q. Li, G. Chen, Y. Zhang, R. Feng, and W. X
 1. [Prompt-augmented Boundary Attentive Learning for Weakly Supervised Temporal Sentence Grounding](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11015819)
 Z. Zhu, **Y. Huang<span>&#42;</span>**, M. Zhang, L. Ouyang, Y. Sato
 
+1. [Egocentric Action-aware Inertial Localization in Point Clouds with Vision-Language Guidance](https://iccv.thecvf.com/virtual/2025/poster/1734)
+M. Zhang, R. Yonetani,  **Y. Huang<span>&#42;</span>**, L. Ouyang, R. Liu, Y. Sato
+**ICCV 2025**
+
+1. [Beyond Label Semantics: Language-Guided Action Anatomy for Few-shot Action Recognition](https://iccv.thecvf.com/virtual/2025/poster/259)
+Z. Qian, X. Yao, **Y. Huang**, C. Zhang, J. Ying, H. Sun
+**ICCV 2025**
+
+1. [Learning Streaming Video Representation via Multitask Training](https://iccv.thecvf.com/virtual/2025/poster/2713)
+Y. Yan, J. Xu, S. Di, Y. Liu, Y. Shi, Q. Chen, Z. Li, **Y. Huang** and W. Xie.
+**ICCV 2025**
+
 
 ### 📒 Topic:  Egocentric & Video Benchmarks.
 1. [EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World](https://arxiv.org/abs/2403.16182) \| [[Project&Code](https://github.com/OpenGVLab/EgoExoLearn)] \| [[BibTex](/docs/cvpr2024-h/txt)]               
@@ -133,9 +149,10 @@ G. Chen<span>&#42;</span>, Y. Liu<span>&#42;</span>, **Y. Huang<span>&#42;</span
 
 
 # 🔥 News
+- [Vinci](https://github.com/OpenGVLab/vinci) is accepted by IMWUT 2025.
+- 3 Papers accepted by ICCV 2025.
 - 4 Papers accepted by ICLR 2025.
 - 3 Papers accepted by ECCV 2024, in which [ActionVOS](https://arxiv.org/pdf/2407.07402) got accepted as oral!
 - 3 Papers accepted by CVPR 2024.
-- Served as an Area Chair for ICCV 2023 and CVPR 2024.
 - Received Special Grant for Foreign Researchers (¥11,000,000) from [JSPS](https://www.jsps.go.jp/index.html).
 - Received Grant-in-Aid for Early-Career Scientists (¥4,550,000) from [JSPS](https://www.jsps.go.jp/index.html).
