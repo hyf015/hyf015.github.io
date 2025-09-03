@@ -48,7 +48,7 @@ Please feel free to contact me by email for any suggestions, questions, or poten
 B. Pei, **Y. Huang<span>&#42;</span>**, J. Xu, G. Chen, Y. He, Y. Yang, Y. Wang, W. Xie, Y. Qiao, F. Wu, L. Wang
 **ICLR 2025**
 
-1. [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](https://arxiv.org/pdf/2407.06628)
+1. [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](https://arxiv.org/pdf/2407.06628) \| [[Code](https://github.com/mf-zhang/IMU-Video-MAE)]
 M. Zhang, **Y. Huang<span>&#42;</span>**, R. Liu, Y. Sato
 **ECCV 2024**
 
